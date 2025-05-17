@@ -6,10 +6,10 @@
       
       ➧ Comp Sci student at FECAP
       
-             I'm a first year student focusing on self development, I am currently learning C# and making games using Unity.
+     I'm a first year student focusing on self development, I am currently learning C# and making games using Unity.
 
-             However, I also but have knowledge in SQL, since I work with data on a daily basis. 
-             At the moment, I'm working as a Program Manager Intern at Amazon Stores. 
+     Besides, I also but have knowledge in SQL, since I work with data on a daily basis. 
+     At the moment, I'm working as a Program Manager Intern at Amazon Stores. 
 </div>
 
 
