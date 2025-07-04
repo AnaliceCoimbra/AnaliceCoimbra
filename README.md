@@ -10,7 +10,7 @@
 
      Besides, I also have knowledge in SQL, since I work with data on a daily basis. 
      At the moment, I'm working as a Program Manager Intern at Amazon Stores. 
-</div>
+
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=analicecoimbra&show_icons=true&locale=en" alt="analicecoimbra" /></p>
@@ -21,6 +21,8 @@
 
 <br>
 <h3 align = "left"> ➧ Skills: </h3>    
+  <p float="left">
+   Currently I can code using C# and SQL. Besides, I'm learning HTML, CSS and JavaScript.
       
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
