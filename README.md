@@ -8,10 +8,8 @@
       
      I'm a first year student focusing on self development. Currently I can code using C# and SQL.
      Besides, I'm learning HTML, CSS and JavaScript. 
-     Also, I'm working as a Program Manager Intern at Amazon Stores in the InStock Management team!
-     I work with data on a daily basis, so I use a lot of SQL and I'm starting to use TypeScript in Excel Macros.  
-
-
+     Also, I'm working as a Program Manager Intern at Amazon Stores in the Business Intelligence and Automation team!
+  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=analicecoimbra&show_icons=true&locale=en" alt="analicecoimbra" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=analicecoimbra&show_icons=true&locale=en&layout=compact" alt="analicecoimbra" /></p>
