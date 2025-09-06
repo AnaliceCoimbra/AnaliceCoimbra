@@ -8,7 +8,7 @@
       
      I'm a first year student focusing on self development. Currently I can code using C# and SQL.
      Besides, I'm learning HTML, CSS and JavaScript. 
-     Also, I'm working as a Program Manager Intern at Amazon Stores in the Business Intelligence and Automation team!
+     Also, I'm working as a Program Manager Intern at Amazon Stores in the Business Intelligence and Automation team! I'm handling development with data science.
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=analicecoimbra&show_icons=true&locale=en" alt="analicecoimbra" /></p>
 
