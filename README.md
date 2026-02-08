@@ -4,22 +4,10 @@
     <samp>
       <p float="left">
       
-     ➧ Comp Sci student at FECAP - SP.
-      
-     I'm a first year student focusing on self development. Currently I can code using C# and SQL.
-     Besides, I'm learning HTML, CSS and JavaScript. 
-     Also, I'm working as a Program Manager Intern at Amazon Stores in the Business Intelligence and Automation team! I'm handling development with data science.
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=analicecoimbra&show_icons=true&locale=en&layout=compact" alt="analicecoimbra" /></p>
-
-###
-
-<br>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaliceCoimbra/AnaliceCoimbra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaliceCoimbra/AnaliceCoimbra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnaliceCoimbra/AnaliceCoimbra/output/pacman-contribution-graph.svg">
-</picture>
+      Comp Sci student at FECAP - SP. 
+  <br><br>
+      I'm a programmer focusing on backend development, and I am currently in my second year of Computer Science. At the moment, I'm working as a Business Intelligence and Automation intern at Amazon.com, I develop data-driven projects based in supply chain operations to eliminate teams defects in data analysis and to optimize supply chain performance. I work with SQL and Python.
+      <br><br>
+      <b>langs && frameworks:</b><br>
+      ▸ typescript, react, node, C#, and now, learning Java.
+      <br><br>
