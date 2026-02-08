@@ -9,5 +9,5 @@
       I'm a programmer focusing on backend development, and I am currently in my second year of Computer Science. At the moment, I'm working as a Business Intelligence and Automation intern at Amazon.com, I develop data-driven projects based in supply chain operations to eliminate teams defects in data analysis and to optimize supply chain performance. I work with SQL and Python.
       <br><br>
       <b>langs && frameworks:</b><br>
-      ▸ typescript, react, node, C#, and now, learning Java.
+      ▸ typescript, javascript, react, node, C#, and now, learning Java.
       <br><br>
